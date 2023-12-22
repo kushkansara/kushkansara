@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kushkansara
-- 👀 I’m interested in Softwar Development, Web Developmentm and Machine Learning
+- 👀 I’m interested in Softwar Development, Android Applications,Web Developmentm and Machine Learning
 - 🌱 I’m currently learning python ,Django ,MySQL
 - 
 
